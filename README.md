@@ -5,6 +5,9 @@ The focus is on creating a smooth chess-playing experience with clean visuals, r
 
 Whether you're experimenting with different openings, practicing tactics, or just playing casual games, this app offers a lightweight environment that's easy to run and extend.
 
+<img width="3188" height="1449" alt="image" src="https://github.com/user-attachments/assets/7bfe7d5f-17fe-4b6e-93bf-b68867e86f22" />
+<img width="3199" height="1473" alt="image" src="https://github.com/user-attachments/assets/a0b5c0f8-4c20-4ee3-b972-9ac860f3c01a" />
+
 ---
 
 ## 🎯 Features
